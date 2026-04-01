@@ -1,6 +1,6 @@
 Hi, I'm Ariful Islam 👋
-Product Engineer · ArcGIS Maps SDK · JavaScript · React · Angular · .NET  
-📍 Charlotte, NC  |  🏢 Esri  |  🌐 portfolio
+Product Engineer · ArcGIS Maps SDK · JavaScript · React · Angular · .NET
+📍 Charlotte, NC   |   🏢 Esri   |   🌐 Portfolio
 I build interactive mapping applications and developer tools using the ArcGIS Maps SDK ecosystem. Currently preparing for the ArcGIS SDK Product Engineer certification.
 ---
 🗺️ ArcGIS Maps SDK — core samples
@@ -12,14 +12,14 @@ Find-nearby-places-and-details	Keyword place search with detailed place info	HTM
 Add-live-radius-search-sample	Live radius search on a map	HTML
 Voice-to-Zoom-in-the-Map	Voice-controlled map navigation	—
 ---
-🌍 Full map applications (live on Vercel)
-Repo	Live demo	Description
-Esri-regional-offices-explorer	Live	Interactive map of Esri US offices with rich popups
-Travel-Smart-Map-Charlotte	Live	Points of interest in Charlotte, NC — ArcGIS JS API + Calcite
-ai-map-reporter	Live	AI-powered map reporting tool
-geosight	Live	Geospatial insights web app
-layerlens	Live	Layer inspection and exploration tool
-routeboard	Live	Routing and directions dashboard
+🌍 Full map applications
+Repo	Live	Description
+Esri-regional-offices-explorer	▶ Live	Interactive map of Esri US offices with rich popups
+Travel-Smart-Map-Charlotte	▶ Live	Points of interest in Charlotte, NC — ArcGIS JS API + Calcite
+ai-map-reporter	▶ Live	AI-powered map reporting tool
+geosight	▶ Live	Geospatial insights web app
+layerlens	▶ Live	Layer inspection and exploration tool
+routeboard	▶ Live	Routing and directions dashboard
 ---
 ⚛️ Framework integrations
 Repo	Stack	Description
@@ -28,16 +28,16 @@ angular-tools-app	Angular · TypeScript	ArcGIS tools built with Angular
 devedge	HTML	Developer edge utilities
 ---
 📚 Study, prep & reference tools
-Repo	Live demo	Description
-ArcGIS-Dev-Reference-DAILY-STUDY-GUIDE	Live	Daily ArcGIS developer reference guide
-arcgis-sdk-reference	Live	SDK API quick reference
-Certification-Exam-Prep	Live	ArcGIS certification exam prep app
-SDK-PE-PREP	Live	SDK Product Engineer prep tool
-Code-Dojo-app-C-and-JS-practice	Live	C# and JavaScript coding practice drills
+Repo	Live	Description
+ArcGIS-Dev-Reference-DAILY-STUDY-GUIDE	▶ Live	Daily ArcGIS developer reference guide
+arcgis-sdk-reference	▶ Live	SDK API quick reference
+Certification-Exam-Prep	▶ Live	ArcGIS certification exam prep app
+SDK-PE-PREP	▶ Live	SDK Product Engineer prep tool
+Code-Dojo-app-C-and-JS-practice	▶ Live	C# and JavaScript coding practice drills
 ---
-🏢 ArcGIS Enterprise SDK (C# / .NET)
+🏢 ArcGIS Enterprise SDK
 Repo	Language	Description
-developer-support	C#	Fork of Esri's developer support samples — Python, .NET, JS
+developer-support	C#	Fork of Esri's developer support samples
 Samples	C#	Personal collection of Enterprise SDK samples
 ---
 🛠️ Tech stack
@@ -46,10 +46,6 @@ Samples	C#	Personal collection of Enterprise SDK samples
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS_Maps_SDK-0079C1?style=flat&logo=esri&logoColor=white)
 ---
-📊 GitHub stats
 ![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifulIslamEsri&show_icons=true&theme=default&hide_border=true)
----
-All map apps deployed on Vercel · Built with the ArcGIS Maps SDK for JavaScript
