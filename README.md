@@ -2,7 +2,7 @@
 
 **Developer Products Support Analsyt · ArcGIS Maps SDK · JavaScript · React · Angular · .NET**
 
-📍 Charlotte, NC &nbsp;&nbsp;|&nbsp;&nbsp; 🏢 Esri &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Portfolio](https://portfolio-o58a.vercel.app)
+📍 Charlotte, NC &nbsp;&nbsp;|&nbsp;&nbsp; 🏢 Esri &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Portfolio](https://portfolio-o58a.vercel.app/)
 
 I build interactive mapping applications and developer tools using the ArcGIS Maps SDK ecosystem. Currently preparing for the **ArcGIS SDK Product Engineer certification**.
 
